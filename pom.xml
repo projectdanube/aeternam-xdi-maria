@@ -3,10 +3,10 @@
 
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>aeternam</groupId>
-	<artifactId>aeternam-xdi-alice</artifactId>
+	<artifactId>aeternam-xdi-maria</artifactId>
 	<packaging>war</packaging>
 	<version>0.1-SNAPSHOT</version>
-	<name>aeternam-xdi-alice</name>
+	<name>aeternam-xdi-maria</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

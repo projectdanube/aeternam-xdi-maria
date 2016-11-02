@@ -2,7 +2,7 @@
 
 <head>
 
-<title>AETERNAM XDI Demo - ALICE</title>
+<title>AETERNAM XDI Demo - MARIA</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta charset="UTF-8"> 
 
@@ -51,7 +51,7 @@ function deactivateticket() {
 
 <body>
 
-<h1>=alice &nbsp;<img src="images/logo-xdi-individual.jpg" height="60"></h1>
+<h1>=maria &nbsp;<img src="images/logo-xdi-individual.jpg" height="60"></h1>
 
 <button onclick="viewticket();">VIEW TICKET</button>
 
