@@ -107,6 +107,12 @@
 							({$self}/$public)$do/$get/&lt;$xdi&gt;&lt;$uri&gt;
 							({$self}/$public)$do/$get/&lt;$websocket&gt;&lt;$xdi&gt;&lt;$uri&gt;
 							({$self}/$public)$do/$get/&lt;$connect&gt;&lt;$xdi&gt;&lt;$uri&gt;
+
+							{$self}$card&lt;#first&gt;&lt;#name&gt;/&amp;/"Maria"
+							{$self}$card&lt;#last&gt;&lt;#name&gt;/&amp;/"Fischer"
+							{$self}$card#address&lt;#street&gt;/&amp;/"Hauptstrasse 18"
+							{$self}$card#address&lt;#locality&gt;/&amp;/"Frankfurt"
+							{$self}$card#address&lt;#country&gt;/&amp;/"Deutschland"
 						</value>
 					</property>
 					<property name="bootstrapMessageEnvelope">
