@@ -51,7 +51,7 @@ function deactivateticket() {
 
 <body>
 
-<h1>=maria &nbsp;<img src="images/logo-xdi-individual.jpg" height="60"></h1>
+<h1><img src="images/logo-passenger.png" height="60">&nbsp;=maria &nbsp;<img src="images/logo-xdi-individual.jpg" height="60"></h1>
 
 <button onclick="viewticket();">VIEW TICKET</button>
 
